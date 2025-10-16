@@ -153,6 +153,7 @@ Model aşırı öğrenme (overfitting) gösteriyorsa öneriler terminalde görü
 
    ```bash
    python src/train.py --model rf --n_estimators 100 --max_depth 12 --scale
+   python src/train.py --model linreg --scale
    ```
 3. **MLflow Arayüzünü Açmak**
 
