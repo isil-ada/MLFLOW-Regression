@@ -13,7 +13,7 @@ Adımlar sırasıyla:
 2. scikit-learn ile regresyon modelinin eğitilmesi
 3. Parametrelerin, metriklerin ve grafiklerin **MLflow’a kaydedilmesi**
 4. Eğitilen modelin MLflow’a **artifact ve registered model** olarak yüklenmesi
-5. Performans değerlendirmesi ve kullanıcıya rehber notlarının sunulması
+5. Performans değerlendirmesi
 
 ---
 
@@ -38,7 +38,6 @@ Kod şu anda **California Housing** veri setini kullanır:
 * Hedef: `MedHouseVal` (ev fiyatı, 100.000$ cinsinden)
   Veri otomatik olarak `fetch_california_housing()` fonksiyonu ile indirilir.
 
-İstersen `load_data()` fonksiyonunu değiştirerek **OpenML “nyc-taxi-green-dec-2016”** veri kümesine geçebilirsin.
 
 ---
 
