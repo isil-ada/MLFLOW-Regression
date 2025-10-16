@@ -1,5 +1,3 @@
-Akademik kadın 🌸 — aşağıda hem senin **`aciklama (1).md`** dosyandaki açıklamaları hem de **`train.py`** dosyandaki MLflow işlemlerini birleştirerek profesyonel, teslim edilebilir bir **`README.md`** dosyası oluşturdum.
-
 ---
 
 # 📘 MLflow + Scikit-learn Regresyon Projesi
